@@ -2,4 +2,4 @@
 William Kretzmann
 I ate stirfry lastnight.
 i like chicken
-SEP 2024
+SEP - 2024
