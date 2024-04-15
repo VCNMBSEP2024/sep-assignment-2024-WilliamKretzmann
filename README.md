@@ -1,5 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eBhXrAFr)
-William Kretzmann
-I ate stirfry lastnight.
-i like chicken
-SEP - 2024
+# ST10438397-PROG5121-POE
+William Kretzmann: ST-10438397
